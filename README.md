@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Cloud, Web, App Development Projects**
 
-- 🤝 I’m looking for a **Intern/FTE Tech, Business roles**
+- 🤝 I’m looking for a **Intern/FTE Tech SDE/SRE, Cloud, DevOPS Business roles**
 
 - 💬 Ask me about **Technology**
 
